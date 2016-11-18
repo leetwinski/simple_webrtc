@@ -3,6 +3,7 @@
 ## building
 
 execute `node run bundle` to assemble the app.
+compiled app should be then located in the `out` folder.
 
 ## usage
 
