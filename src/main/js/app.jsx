@@ -1,3 +1,5 @@
+import "file-loader?name=[name].[ext]!./../html/index.html"
+
 import "babel-polyfill";
 import React from "react";
 import {Provider, connect} from "react-redux";
