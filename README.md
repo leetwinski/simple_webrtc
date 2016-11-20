@@ -2,6 +2,8 @@
 
 ## building
 
+you need to have a nodejs installed, and `npm` command available from the shell
+
 execute `npm run bundle` to assemble the app.
 compiled app should be then located in the `out` folder.
 
